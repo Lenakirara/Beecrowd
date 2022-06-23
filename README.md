@@ -13,7 +13,7 @@ Resolução de problemas pela plataforma Beecrowd
 | 1004 | [Produto Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1004) | [Python](https://github.com/Lenakirara/Beecrowd/blob/main/Iniciante/1004-Produto-Simples.py) |
 | 1005 | [Média 1](https://www.beecrowd.com.br/judge/pt/problems/view/1005) | [Python](https://github.com/Lenakirara/Beecrowd/blob/main/Iniciante/1005-Media-1.py)
 | 1006 | [Média 2](https://www.beecrowd.com.br/judge/pt/problems/view/1006) | [Python](https://github.com/Lenakirara/Beecrowd/blob/main/Iniciante/1006-Media2.py)
-| 1007 | [Diferença](https://www.beecrowd.com.br/judge/pt/problems/view/1007) | [Pyton](https://github.com/Lenakirara/Beecrowd/blob/main/Iniciante/1007-Diferenca.py) |
+| 1007 | [Diferença](https://www.beecrowd.com.br/judge/pt/problems/view/1007) | [Python](https://github.com/Lenakirara/Beecrowd/blob/main/Iniciante/1007-Diferenca.py) |
 | 1008 | [Salário](https://www.beecrowd.com.br/judge/pt/problems/view/1008) | [Python](https://github.com/Lenakirara/Beecrowd/blob/main/Iniciante/1008-Salario.py) |
 | 1009 | [Salário com Bônus](https://www.beecrowd.com.br/judge/pt/problems/view/1009) | [Python](https://github.com/Lenakirara/Beecrowd/blob/main/Iniciante/1009-Salario-com-Bonus.py) |
 | 1010 | [Cálculo Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1010) | [Python](https://github.com/Lenakirara/Beecrowd/blob/main/Iniciante/1010-CalculoSimples.py) |
