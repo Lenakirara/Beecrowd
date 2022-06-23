@@ -1,6 +1,6 @@
 # Beecrowd
 
-Beecrowd platform troubleshooting
+Resolução de problemas pela plataforma Beecrowd
 
-## Beginner
+## Iniciante
 
